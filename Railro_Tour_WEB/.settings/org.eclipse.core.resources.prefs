@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/index.jsp=UTF-8
+encoding//WebContent/js/script.js=UTF-8
+encoding//WebContent/member/loginForm.jsp=UTF-8
+encoding//WebContent/member/sign_up_Form_1.jsp=UTF-8
+encoding//WebContent/member/sign_up_Form_2.jsp=UTF-8
+encoding//src/net/member/action/MemberJoinAction.java=UTF-8
+encoding//src/net/member/db/MemberDAO.java=MS949
